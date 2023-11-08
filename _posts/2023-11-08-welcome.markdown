@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2023-11-08 08:38:18 -0500
+categories: updates
+---
+Well, its finally here. I have launched my personal website and hooked it up to my public domain. 
+
+I have been working on this for a while, and I am excited to finally have it up and running. I will be using this website to post updates on my projects, as well as my thoughts on various topics.
+
+I hope you enjoy the site!
+
