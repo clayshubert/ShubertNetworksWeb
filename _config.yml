@@ -35,6 +35,16 @@ github_username:  clayshubert
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-menus
+
+minima: 
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/clayshubert" }
+    - { platform: twitter, user_url: "https://twitter.com/clayshubert" }
+  header_pages:
+    - about.md
+    - projects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

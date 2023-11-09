@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Clay Shubert. I am a gradutate student at the University of Tennessee, Knoxville, Tickle College of Engineering pursuing a Masters of Science in Computer Engineering with a focus on Cybersecurity and Datacenter Management and Technology. I have maintained a cumulative GPA of 3.67 out of 4.00. My expected graduation date is May 2024.
+Hello, my name is Clay Shubert. I am a graduate student at the University of Tennessee, Knoxville, Tickle College of Engineering pursuing a Masters of Science in Computer Engineering with a focus on Cybersecurity and Datacenter Management and Technology. I have maintained a cumulative GPA of 3.67 out of 4.00. My expected graduation date is May 2024.
 
 In terms of professional experience, I worked at Publix Supermarkets Inc in Franklin, Tennessee for four years, where I honed my customer service and teamwork skills as a Cashier. During my time there, I cross-trained in various roles, including cashiering, self-checkout machine monitoring, and cash management. I was also trusted to function with minimal supervision on multiple tasks, including opening and closing the store.
 
