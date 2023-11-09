@@ -1,0 +1,10 @@
+<!--Rule #100100: Checks inbound IP against AlienVault rep database. Alerts level 10 if found, this can be customized.-->
+<group name="attack,">
+  <rule id="100100" level="10">
+    <if_group>web|attack|attacks</if_group>
+    <list field="srcip" lookup="address_match_key">etc/lists/blacklist-alienvault</list>  
+    <description>IP address found in AlienVault reputation database appeared in event.</description>
+  </rule>
+</group>
+
+<!--blacklist-alienvault scrapped from file /wazuh-custom-rules/alienvault_reputation.ipset-->
