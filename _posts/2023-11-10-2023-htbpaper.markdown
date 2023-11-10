@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "HTB Writeup: Paper"
+date:   2023-11-10 11:41:00 -0500
+categories: htb
+---
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/htb-writeups/htb-paper.pdf" width="1000" height="1000" type='application/pdf'></object>

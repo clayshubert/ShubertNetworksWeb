@@ -17,8 +17,7 @@ permalink: /projects/
 - #### COSC583: Applied Cryptography
 
 ### CTF Writeups <a name="htb-writeups"></a>
-
-- #### [HTB Paper](https://github.com/clayshubert/ShubertNetworks/blob/shubertnetworks-website/assets/htb-writeups/htb-paper.pdf?raw=true)
+- #### [HTB Paper](/htb/2023/11/10/2023-htbpaper.html)
 
 
 ### Personal Projects <a name="personal-projects"></a>
@@ -26,7 +25,5 @@ permalink: /projects/
 - #### ShubertNetworks 
 
 - #### mTLS-nginx-fastapi
-
-- #### 
 
 
