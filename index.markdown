@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![logo-no-background](https://github.com/clayshubert/ShubertNetworksWeb/blob/main/assets/website-favicon.png?raw=true)
+![logo](https://github.com/clayshubert/ShubertNetworks/blob/shubertnetworks-website/assets/website-favicon.png?raw=true)
